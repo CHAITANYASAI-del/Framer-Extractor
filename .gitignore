@@ -1,0 +1,14 @@
+# Only the extension, the CMS source and the repo docs are published.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/framer-extractor/
+!/admin-src/
+
+# Dependencies and OS junk
+node_modules/
+.DS_Store
+*.zip
+.env*
+.claude/
