@@ -5,6 +5,7 @@
 !/LICENSE
 !/framer-extractor/
 !/admin-src/
+!/Video Assets/
 
 # Dependencies and OS junk
 node_modules/
