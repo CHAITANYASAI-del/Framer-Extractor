@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After replacing YOUR-DOMAIN.com in sitemap.xml, add:
+# Sitemap: https://YOUR-DOMAIN.com/sitemap.xml

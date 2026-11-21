@@ -1,0 +1,16 @@
+{
+  "name": "framer-extractor-feedback-cards",
+  "private": true,
+  "type": "module",
+  "description": "Static site exported from Framer with Framer Extractor. Run: npm start",
+  "scripts": {
+    "start": "node preview-server.mjs --open",
+    "dev": "node preview-server.mjs --open",
+    "preview": "node preview-server.mjs --open"
+  },
+  "bin": {
+    "serve": "preview-server.mjs",
+    "http-server": "preview-server.mjs",
+    "live-server": "preview-server.mjs"
+  }
+}
